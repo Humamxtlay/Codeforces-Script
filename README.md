@@ -5,7 +5,7 @@ Script to fetch my solved problems from codeforces.com
 PHP
 
 ## Goal
-This script will open all submission pages for spesific handle in codeforces.com and get all accepted problems and print 
+This script will open all submission pages for specific handle in codeforces.com and get all accepted problems and print 
  - problem name
  - statement link
  - solution link
